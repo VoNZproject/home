@@ -1,7 +1,7 @@
 
 #map {
-
-	height: 600px;
+	width: 100%;
+	height: 100%;
 }
 
 #expanddiv > ul > li:nth-child(1){
@@ -10,4 +10,14 @@
 
 #hello {
 	color: red;
+}
+
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+
+.popUpContent.scroll{
+	border-bottom: 2px solid black;
+	margin-bottom: 5px;
 }

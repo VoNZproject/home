@@ -4,11 +4,11 @@
     <name>Home</name>
     <description>The default homepage</description>
     <licence>AGPL</licence>
-    <author>Shawn, Ahamad</author>
-    <version>0.0.1</version>
+    <author>Shawn, Ahamad, Jonathan, Mason</author>
+    <version>0.2.0</version>
     <namespace>Home</namespace>
     <category>other</category>
     <dependencies>
-        <owncloud min-version="8.1" max-version="9.2" />
+        <owncloud min-version="8.1" max-version="10.0" />
     </dependencies>
 </info>
